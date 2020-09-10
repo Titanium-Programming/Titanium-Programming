@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 ## How to reach me:
  - [Khan Academy](https://www.khanacademy.org/profile/kaid_50708538864371849001721/)
  - [github](https://github.com/Titanium-Programming/)
-<p>test</p>
+ 
+ <h3>test 2</h3>
