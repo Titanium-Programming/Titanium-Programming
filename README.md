@@ -13,12 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
+## About:
+ - 
+
 ## I am currently working on:
  - 2 games
  
 ## I am learning:
  - Python
+ - Node.js
  
 ## How to reach me:
  - [Khan Academy](https://www.khanacademy.org/profile/kaid_50708538864371849001721/)
  - [Github](https://github.com/Titanium-Programming/)
+ - [Repl](https://repl.it/@titaniump)
